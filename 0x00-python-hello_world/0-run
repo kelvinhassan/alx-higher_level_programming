@@ -1,2 +1,2 @@
 #!/bin/bash
-python 2-print.py
+python3 hello.py
