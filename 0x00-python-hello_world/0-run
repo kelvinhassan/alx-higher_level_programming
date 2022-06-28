@@ -1,2 +1,2 @@
 #!/bin/bash
-python pyfile.py
+python 2-print.py
