@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-load_from_json_file.py
-ON file-reading function."""
+"""Defines a JSON file-reading function."""
 import json
 
 
